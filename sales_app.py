@@ -397,11 +397,11 @@ if st.button('Mostrar respuesta 4'):
 st.markdown("<br><br>", unsafe_allow_html=True)
 
 # Pregunta 5
-st.subheader('Pregunta 5: Ventas por trimestre en São Paulo')
-if st.button('Mostrar respuesta 5'):
-    pregunta_5(df_ventas_limpio)
+#st.subheader('Pregunta 5: Ventas por trimestre en São Paulo')
+#if st.button('Mostrar respuesta 5'):
+#    pregunta_5(df_ventas_limpio)
 
-st.markdown("<br><br>", unsafe_allow_html=True)
+#st.markdown("<br><br>", unsafe_allow_html=True)
 
 # Pregunta 6
 st.subheader('Pregunta 6: Productos más vendidos en el último trimestre')
